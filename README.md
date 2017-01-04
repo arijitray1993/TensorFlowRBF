@@ -1,6 +1,8 @@
 # TensorFlowRBF
 This repository explores the design of a Radial Basis Function and related functions (like K-Means) for use with TensorFlow.
 
+https://filebox.ece.vt.edu/~ray93/rbfConcurrent.pdf 
+
 # To compile
 Note: You must have a GPU compatible TensorFlow installed on your system before compiling this project.
 
